@@ -6,7 +6,7 @@ Have fun playing this classic and fantastic game, crossing game, **the best vers
   
 ![Screenshot_1](https://github.com/genilsonbick/Crossing-Game/assets/104036619/f0ac1bd3-38ee-4fe3-b63b-fe2f967ed2a4)
 
-- Game Over System_
+- _Game Over System_
 
 ![Screenshot_2](https://github.com/genilsonbick/Crossing-Game/assets/104036619/6fb66832-bf8a-46ac-b9a0-fc0a2b7614c4)
 
